@@ -1,3 +1,6 @@
+[1.2.6] Changes
+- added mp5 frasier magazines to mp5 retool group
+
 [1.2.5] Changes
 - mags for Retrogue's G36K
 - mags for GAMMA's new p90's
