@@ -1,3 +1,6 @@
+[1.2.7] Changes
+- removed p90 ltx files because they were no longer needed and caused duplicate entry crashes
+
 [1.2.6] Changes
 - added mp5 frasier magazines to mp5 retool group
 
