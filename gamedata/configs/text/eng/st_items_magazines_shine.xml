@@ -41,5 +41,13 @@ Just for Shine's + Awry's fixes
 		Extended Vector magazine modified to hold 9x19 Parabellum cartridges.
 		</text>
 	</string>
+	<string id="mag_mp7_5.7x28_default">
+		<text>5.7x28 MP7 Magazine</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_ss190_descr">
+		<text>
+		Standard MP7 5.7x28 magazine with a capacity of 40 rounds.
+		</text>
+	</string>
 	
 </string_table>
