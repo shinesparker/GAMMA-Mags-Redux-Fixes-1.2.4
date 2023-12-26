@@ -1,3 +1,8 @@
+[1.3] Changes
+- redone trader profiles to use DLTX instead of overriding the GAMMA trader profiles completely
+- fixed mp7 mags having broken names\description
+- added magazines to Adar
+
 [1.2.7] Changes
 - removed p90 ltx files because they were no longer needed and caused duplicate entry crashes
 
