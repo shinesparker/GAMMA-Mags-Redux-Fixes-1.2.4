@@ -1,3 +1,6 @@
+[1.3.1] Changes
+- fixed typo in veresk mags ID
+
 [1.3] Changes
 - redone trader profiles to use DLTX instead of overriding the GAMMA trader profiles completely
 - fixed mp7 mags having broken names\description
